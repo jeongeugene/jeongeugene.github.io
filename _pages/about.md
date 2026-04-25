@@ -2,7 +2,7 @@
 layout: about
 title: Eugene Jeong
 permalink: /
-subtitle: <a href="https://kaist.ac.kr/">KAIST</a> | Undergraduate Researcher
+subtitle: <a href="https://kaist.ac.kr/">KAIST</a> | Undergraduate Student
 
 social: true # includes social icons at the bottom of the page
 ---
