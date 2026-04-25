@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Welcome to my Blog"
-date: 2026-04-26 10:00:00 +0900
+title: My First Technical Blog!
+date: 2026-04-26 15:09:00
+description: A short summary of what this post is about.
 categories: personal
 ---
+
 
 This is my very first post! 
 
