@@ -11,7 +11,6 @@ I am an undergraduate student in School of Computing and Electrical Engineering 
 
 ## Experience
 - **Undergraduate Intern** @ *ACSS KAIST* (2025.08 - 2026.02)
-- **Campus Partner** @ *NAVER D2SF* (2022.03 - 2022.12)
 
 ## Education
 - **B.S. in Computer Science and Electrical Engineering** @ *KAIST* (2021.09 - Present)
