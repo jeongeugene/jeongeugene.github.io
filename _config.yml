@@ -1,0 +1,18 @@
+title: Eugene Jeong
+description: "Personal website, CV, and blog discussing technical papers."
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme specific settings
+author: Eugene Jeong
+# email: your-email@example.com (uncomment and add your email)
+github_username: jeongeugene
+# twitter_username: your_twitter (uncomment and add your twitter)
+
+# Navigation header links
+header_pages:
+  - about.md
+
+show_excerpts: true
