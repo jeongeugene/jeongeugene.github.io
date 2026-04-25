@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Technical Blog!
+title: My First Blog!
 date: 2026-04-25 00:00:00
 description: A short summary of what this post is about.
 categories: personal
