@@ -32,6 +32,26 @@
       "endDate": "2026-06"
     }
   ],
+  "skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "C"
+    },
+    {
+      "name": "Pytorch"
+    },
+    {
+      "name": "ROS2"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Java"
+    }
+  ],
   "languages": [
     {
       "language": "Korean",
